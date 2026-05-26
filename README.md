@@ -12,3 +12,8 @@ and then Recreating the Optimized lua source code,
 - Super buggy and not support for all Lua syntaxs (for now)
 - No Optimization passes (for now)
 - Not very optimized
+
+
+## Notes
+- In the code there might be Noisy comments / Wrong explanations
+- The code is portable across Compilers? (I guess yes)
